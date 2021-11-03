@@ -41,9 +41,6 @@ minima:
   social_links:
     github: jtrosenthal
 
-header_pages:
-  - about.md
-
 # Set this to true to get LaTeX math equation support
 use_math: 
 
