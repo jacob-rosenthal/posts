@@ -36,11 +36,11 @@ Instructions copied from the assignment
 
 Here's what our camera looked like from the outside:
 
-![](images/camera-obscura-post/setup1.jpeg "Outside of camera, wrapped in foil to stop any light from entering")
+![](https://github.com/jtrosenthal/posts/blob/master/images/camera-obscura-post/setup1.jpeg "Outside of camera, wrapped in foil to stop any light from entering")
 
 And here is a side view of the inside, showing the arrangement of the pinholes and the screen:
 
-![](images/camera-obscura-post/setup2.JPG "View inside the camera")
+![](https://github.com/jtrosenthal/posts/blob/master/images/camera-obscura-post/setup2.JPG "View inside the camera")
 
 # Taking Pictures
 
@@ -48,13 +48,13 @@ Since a camera obscura lets in so little light (to keep the image sharp), we mad
 
 In our first attempt, we learned the camera must remain perfectly still - if it moves at all, the images will be blurry:
 
-![](images/camera-obscura-post/street-blurry.jpeg "Capturing sharp images was difficult!")
+![](https://github.com/jtrosenthal/posts/blob/master/images/camera-obscura-post/street-blurry.jpeg "Capturing sharp images was difficult!")
 
 After some trial and error, we managed to capture some good quality pictures:
 
-![](images/camera-obscura-post/columns.jpeg "MIT columns")
+![](https://github.com/jtrosenthal/posts/blob/master/images/camera-obscura-post/columns.jpeg "MIT columns")
 
-![](images/camera-obscura-post/street.jpeg "Street scene in Cambridge")
+![](https://github.com/jtrosenthal/posts/blob/master/images/camera-obscura-post/street.jpeg "Street scene in Cambridge")
 
 # Conclusion
 
