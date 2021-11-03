@@ -1,1 +1,1 @@
-Sitemap: https://jtrosenthal.github.io/website/sitemap.xml
+Sitemap: https://jacobrosenth.al/posts/sitemap.xml
