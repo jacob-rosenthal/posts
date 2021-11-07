@@ -42,7 +42,6 @@ minima:
     github: jtrosenthal
 
 header_pages:
-  - _pages/about.md
 
 # Set this to true to get LaTeX math equation support
 use_math: true
